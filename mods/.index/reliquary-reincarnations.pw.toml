@@ -1,0 +1,29 @@
+filename = 'reliquary-1.21.1-2.0.81.1579.jar'
+name = 'Reliquary Reincarnations'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'reliquary-1.21.1-2.0.81.1579.jar'
+
+[download]
+hash = '3a491b0248695d6d3c396b5ef0bcb3bb64905493'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9229057
+project-id = 241319
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'

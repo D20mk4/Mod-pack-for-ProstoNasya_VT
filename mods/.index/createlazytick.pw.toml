@@ -1,0 +1,29 @@
+filename = 'CreateLazyTick-2.7.32-6.0.10-neoforge-1.21.1.jar'
+name = 'Create: LazyTick'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.7.32-6.0.10'
+
+[download]
+hash = 'ac823d656b54b2c44b6c50ed7c62ea3e1ed80d037f5d1ad1f6ecd193cc09e6bf18068917ce9e732e74fa751b2d6d770980552a8142435039847a1682a4540ccd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Z0d7hFh4/versions/AxNztWRg/CreateLazyTick-2.7.32-6.0.10-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Z0d7hFh4'
+version = 'AxNztWRg'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VYRu7qmG'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'

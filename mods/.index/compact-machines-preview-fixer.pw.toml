@@ -1,0 +1,18 @@
+filename = 'cmpreviewfixer-21.1-1.1.0.jar'
+name = 'Compact Machines Preview Fixer'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cmpreviewfixer-21.1-1.1.0.jar'
+
+[download]
+hash = 'e384725ebd3a4e903e0c5cb9a3d79d1ce14817dc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8133423
+project-id = 1548811

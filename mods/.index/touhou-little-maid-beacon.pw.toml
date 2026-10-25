@@ -1,0 +1,21 @@
+filename = 'maidbeacon-1.0.1.jar'
+name = 'Touhou Little Maid: Beacon'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'maidbeacon-1.0.1-1.21.1.jar'
+
+[download]
+hash = '09897f0bef4a3b89f64a7b3a1e9e585db4fde164'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7708218
+project-id = 1470621
+
+[[x-prismlauncher-dependencies]]
+addonId = '355044'
+type = 'REQUIRED'
